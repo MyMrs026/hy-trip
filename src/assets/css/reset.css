@@ -1,15 +1,24 @@
-body,h1,h2,h3,h4,ul,li{
+body,
+h1,
+h2,
+h3,
+h4,
+ul,
+li {
     padding: 0;
     margin: 0;
 }
-ul,li{
+
+ul,
+li {
     list-style: none;
 }
 
-a{
+a {
     text-decoration: none;
     color: #333;
 }
-img{
+
+img {
     vertical-align: top;
 }
